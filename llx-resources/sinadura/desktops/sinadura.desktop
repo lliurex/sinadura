@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sinadura
+Name[es]=Sinadura, firma digital
+Name[ca]=Sinadura, signatura digital
+Name[ca_ES@valencia]=Sinadura, signatura digital
+Name[ca_ES.UTF-8@valencia]=Sinadura, signatura digital
+Comment=A program to digitally sign pdf documents
+Comment[es]=Un programa para firmar digitalmente documentos pdf
+Comment[ca]=Un programa per a signar digitalment documents pdf
+Comment[ca_ES@valencia]=Un programa per a signar digitalment documents pdf
+Comment[ca_ES.UTF-8@valencia]=Un programa per a signar digitalment documents pdf
+Type=Application
+Exec=/opt/sinadura/bin/sinadura.sh
+Icon=sinadura48
+Terminal=0
+Categories=Office;
+TryExec=/opt/sinadura/bin/sinadura.sh

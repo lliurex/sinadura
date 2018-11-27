@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>sinadura</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>Sinadura</name>
+<name xml:lang="es">Sinadura, firma digital</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Sinadura, signatura digital</name>
+<name xml:lang="ca_ES@valencia">Sinadura, signatura digital</name>
+<name xml:lang="ca_ES">Sinadura, signatura digital</name>
+<summary>A program to digitally sign pdf documents</summary>
+<summary xml:lang="es">Un programa para firmar digitalmente documentos pdf</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Un programa per a signar digitalment documents pdf</summary>
+<summary xml:lang="ca_ES@valencia">Un programa per a signar digitalment documents pdf</summary>
+<summary xml:lang="ca_ES">Un programa per a signar digitalment documents pdf</summary>
+<description>
+<p>A program to digitally sign pdf documents</p>
+<p xml:lang="es">Un programa para firmar digitalmente documentos pdf</p>
+<p xml:lang="ca_ES.UTF-8@valencia">Un programa per a signar digitalment documents pdf</p>
+<p xml:lang="ca_ES@valencia">Un programa per a signar digitalment documents pdf</p>
+<p xml:lang="ca_ES">Un programa per a signar digitalment documents pdf</p>
+</description>
+<categories>
+<category>Office</category>
+</categories>
+<icon type="stock">sinadura48</icon>
+<provides><binary>/usr/share/sinadura/bin/sinadura.sh</binary></provides>
+<keywords>
+<keyword>sinadura</keyword>
+<keyword>Sinadura</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>Sinadura,</keyword>
+<keyword>firma</keyword>
+<keyword>digital</keyword>
+</keywords>
+<keywords xml:lang="ca_ES.UTF-8@valencia">
+<keyword>signatura</keyword>
+
+</keywords>
+</component>
