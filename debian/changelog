@@ -1,0 +1,59 @@
+sinadura (5.0.9+lliurex1) bionic; urgency=medium
+
+  * New version for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 27 Nov 2018 10:01:40 +0100
+
+sinadura (4.2.0+lliurex4) xenial; urgency=medium
+
+  * Removed deprecated locale
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 22 Jun 2017 09:15:11 +0200
+
+sinadura (4.2.0+lliurex3) xenial; urgency=medium
+
+  * Added metainfo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Mon, 15 May 2017 14:44:47 +0200
+
+sinadura (4.2.0+lliurex2) xenial; urgency=high
+
+  * Change control to any
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Wed, 10 Feb 2016 14:20:47 +0100
+
+sinadura (4.2.0+lliurex1) xenial; urgency=high
+
+  * Migrate to new release 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Wed, 10 Feb 2016 12:02:12 +0100
+
+sinadura (3.3.3+lliurex1) precise; urgency=low
+
+  * New version for all architectures
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Fri, 31 May 2013 10:28:18 +0200
+
+sinadura (3.1.2+lliurex3) precise; urgency=low
+
+  * Modifying rules file 
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Fri, 21 Dec 2012 10:00:35 +0100
+
+sinadura (3.1.2+lliurex2) precise; urgency=low
+
+  * First release for pandora
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Tue, 18 Dec 2012 12:29:18 +0100
+
+sinadura (3.1.2+lliurex1) unstable; urgency=low
+
+  * Fixed sinadura version
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Wed, 15 Feb 2012 13:36:49 +0100
+
+sinadura (0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Wed, 15 Feb 2012 13:34:21 +0100

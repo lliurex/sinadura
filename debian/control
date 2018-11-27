@@ -1,0 +1,15 @@
+Source: sinadura
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Equipo LliureX <lliurex@gva.es>
+Build-Depends: llxsrchelper,debhelper (>= 10)
+Standards-Version: 4.1.2
+
+Package: sinadura
+Architecture: any
+Depends: libgnome2-0,${misc:Depends}
+Description: This is the Sinadura installer
+ Installer for Sinadura
+ Digital Signature for pdf
+
